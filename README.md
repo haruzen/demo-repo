@@ -6,4 +6,6 @@ Some description!
 
 Watch turorial
 
-###push new
+#Local Development
+
+1. Open index.html in your browse.
